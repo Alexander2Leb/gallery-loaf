@@ -2,7 +2,7 @@
 
 ## Установка
 
-Через composer "/loaf":"~1"
+Через composer "Alexander2Leb/gallery-loaf":"~1"
 
 
 ## Использование с infrajs
@@ -11,7 +11,7 @@
 
 ```json
 {
-	"external":"-loaf/layer.json"
+	"external":"-Alexander2Leb/gallery-loaf/layer.json"
 }
 ```
 
