@@ -1,5 +1,5 @@
 {
-	"name":"Alexander2Leb/gallery-loaf",
+	"name":"alexander2leb/gallery-loaf",
 	"require":{
 		"kenwheeler/slick":"~1"
 	}
