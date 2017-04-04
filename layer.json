@@ -1,0 +1,4 @@
+{
+	"tpl":"-gallery-loaf/layout.tpl",
+	"jsontpl":"-gallery-loaf/?src=~{crumb.name}/"
+}
